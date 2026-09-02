@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Should a startup use FastAPI or Django for a high-throughput API service?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 5.55,
+      "comprehensiveness": 8,
+      "clarity": 7
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 13.62,
+      "comprehensiveness": 9,
+      "clarity": 8
+    }
+  },
+  {
+    "question": "Is PostgreSQL or MongoDB a better choice for an e-commerce application?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 3.7,
+      "comprehensiveness": 8,
+      "clarity": 9
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 35.02,
+      "comprehensiveness": 8,
+      "clarity": 9
+    }
+  },
+  {
+    "question": "Should a small team choose React or Vue for a new web application in 2026?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 4.14,
+      "comprehensiveness": 8,
+      "clarity": 9
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 34.1,
+      "comprehensiveness": 9,
+      "clarity": 9
+    }
+  },
+  {
+    "question": "Is it better to deploy a Python web app on AWS Lambda or a traditional EC2 server?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 12.01,
+      "comprehensiveness": 8,
+      "clarity": 9
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 34.83,
+      "comprehensiveness": 8,
+      "clarity": 9
+    }
+  },
+  {
+    "question": "What are the main differences between Notion and Obsidian for note-taking, and which is better for a student?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 12.99,
+      "comprehensiveness": 8,
+      "clarity": 9
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 38.9,
+      "comprehensiveness": 8,
+      "clarity": 9
+    }
+  },
+  {
+    "question": "How do the pricing models of Slack and Discord compare for a small business team?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 13.37,
+      "comprehensiveness": 8,
+      "clarity": 9
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 43.29,
+      "comprehensiveness": 9,
+      "clarity": 9
+    }
+  },
+  {
+    "question": "What is the competitive landscape for AI coding assistants like GitHub Copilot in 2026?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 15.02,
+      "comprehensiveness": 9,
+      "clarity": 8
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 37.07,
+      "comprehensiveness": 9,
+      "clarity": 8
+    }
+  },
+  {
+    "question": "Should a computer science student in India pursue a master's degree abroad or start working after their bachelor's?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 10.41,
+      "comprehensiveness": 7,
+      "clarity": 8
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 27.55,
+      "comprehensiveness": 7,
+      "clarity": 8
+    }
+  },
+  {
+    "question": "What are the tradeoffs between working at a startup versus a large tech company as a first job?",
+    "baseline": {
+      "num_sources": 5,
+      "time_seconds": 20.57,
+      "comprehensiveness": 8,
+      "clarity": 8
+    },
+    "multi_agent": {
+      "num_sources": 12,
+      "time_seconds": 32.29,
+      "comprehensiveness": 9,
+      "clarity": 9
+    }
+  }
+]
